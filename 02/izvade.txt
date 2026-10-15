@@ -1,0 +1,15 @@
+﻿
+ProcessName           Id Atmina_MB
+-----------           -- ---------
+brave                828     303.1
+brave               9244     338.4
+brave               9824     353.9
+brave              18516       361
+Discord            16180     408.6
+explorer           10812     474.5
+brave               2988     515.7
+Memory Compression  3580     524.6
+dwm                 1076     524.6
+brave               8736     574.3
+
+
