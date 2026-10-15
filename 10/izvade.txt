@@ -1,0 +1,5 @@
+﻿Procesu skaits: 238
+Darbojas servisi: 110
+Apturēti servisi: 204
+Kļūdas pēdējās 48 stundās: 18
+C: brīvā vieta GB: 91.01
