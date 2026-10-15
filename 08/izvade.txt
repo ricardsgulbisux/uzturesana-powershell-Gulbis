@@ -1,0 +1,2 @@
+﻿Get-Service: 0.4367 ms
+Get-CimInstance: 1409.808 ms
