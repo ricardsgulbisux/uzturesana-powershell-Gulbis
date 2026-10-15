@@ -1,0 +1,4 @@
+﻿Darbojas: 110
+Apturēti: 204
+Abu skaits kopā: 314
+Kopējais servisu skaits: 314
