@@ -1,0 +1,7 @@
+﻿Kļūdu skaits: 18
+
+Name                               Count
+----                               -----
+Microsoft-Windows-BitLocker-Driver    12
+
+
