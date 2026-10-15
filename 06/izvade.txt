@@ -1,0 +1,2 @@
+﻿CSV datu rindu skaits: 41
+Fails saglabāts: draiveri.csv
