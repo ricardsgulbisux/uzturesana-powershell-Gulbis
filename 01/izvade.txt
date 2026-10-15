@@ -1,0 +1,6 @@
+﻿Datora nosaukums: RICARDS
+Operetājsistēma: Microsoft Windows 11 Pro
+Būvejuma numurs: 26100.1.amd64fre.ge_release.240331-1435
+PowerShell versija: 5.1.26100.9711
+Pašreizējais datums un laiks: 10/15/2026 14:48:44
+Procesu skaits: 237
