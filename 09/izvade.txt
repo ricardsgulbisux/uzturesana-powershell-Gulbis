@@ -1,0 +1,240 @@
+﻿System Idle Process: 
+System: 
+Secure System: SYSTEM
+Registry: SYSTEM
+smss.exe: SYSTEM
+csrss.exe: SYSTEM
+wininit.exe: SYSTEM
+csrss.exe: SYSTEM
+winlogon.exe: SYSTEM
+services.exe: SYSTEM
+LsaIso.exe: SYSTEM
+lsass.exe: SYSTEM
+svchost.exe: SYSTEM
+fontdrvhost.exe: UMFD-0
+fontdrvhost.exe: UMFD-1
+WUDFHost.exe: LOCAL SERVICE
+svchost.exe: NETWORK SERVICE
+svchost.exe: SYSTEM
+dwm.exe: DWM-1
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: LOCAL SERVICE
+svchost.exe: LOCAL SERVICE
+svchost.exe: LOCAL SERVICE
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: LOCAL SERVICE
+svchost.exe: NETWORK SERVICE
+svchost.exe: SYSTEM
+svchost.exe: NETWORK SERVICE
+svchost.exe: LOCAL SERVICE
+svchost.exe: LOCAL SERVICE
+svchost.exe: LOCAL SERVICE
+amdfendrsr.exe: SYSTEM
+atiesrxx.exe: SYSTEM
+svchost.exe: LOCAL SERVICE
+atieclxx.exe: SYSTEM
+svchost.exe: LOCAL SERVICE
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+Memory Compression: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: LOCAL SERVICE
+svchost.exe: LOCAL SERVICE
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: LOCAL SERVICE
+svchost.exe: LOCAL SERVICE
+svchost.exe: LOCAL SERVICE
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: NETWORK SERVICE
+spoolsv.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: NETWORK SERVICE
+AnyDesk.exe: SYSTEM
+CortexLauncherService.exe: SYSTEM
+updater.exe: SYSTEM
+DtsHPXV2Apo4Service.exe: SYSTEM
+svchost.exe: SYSTEM
+AdobeUpdateService.exe: SYSTEM
+svchost.exe: LOCAL SERVICE
+GameInputRedistService.exe: SYSTEM
+HapticService.exe: SYSTEM
+Everything.exe: SYSTEM
+svchost.exe: SYSTEM
+RazerCentralService.exe: SYSTEM
+svchost.exe: SYSTEM
+RzSDKService.exe: SYSTEM
+GameManagerService3.exe: SYSTEM
+OVRServiceLauncher.exe: SYSTEM
+RtkAudUService64.exe: SYSTEM
+RzSDKServer.exe: SYSTEM
+Red Giant Service.exe: LOCAL SERVICE
+RzDiagnosticService.exe: SYSTEM
+MsMpEng.exe: SYSTEM
+MpDefenderCoreService.exe: SYSTEM
+lghub_updater.exe: SYSTEM
+svchost.exe: LOCAL SERVICE
+RzAppManager: SYSTEM
+RzBTLEManager: SYSTEM
+RzChromaConnectManager: SYSTEM
+RzChromaConnectServer: SYSTEM
+RzDeviceManager: SYSTEM
+RzDeviceManagerEx: SYSTEM
+RzIoTDeviceManager: SYSTEM
+RzSmartlightingDeviceManager: SYSTEM
+RzWDLDeviceManager: SYSTEM
+AggregatorHost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: LOCAL SERVICE
+NgcIso.exe: LOCAL SERVICE
+svchost.exe: SYSTEM
+conhost.exe: SYSTEM
+conhost.exe: SYSTEM
+conhost.exe: SYSTEM
+conhost.exe: SYSTEM
+conhost.exe: SYSTEM
+conhost.exe: SYSTEM
+conhost.exe: SYSTEM
+conhost.exe: SYSTEM
+conhost.exe: SYSTEM
+svchost.exe: SYSTEM
+gamingservices.exe: SYSTEM
+gamingservicesnet.exe: LOCAL SERVICE
+svchost.exe: LOCAL SERVICE
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+GameInputRedistService.exe: richa
+DefenderSessionHelper.exe: richa
+sihost.exe: richa
+OVRServer_x64.exe: richa
+svchost.exe: richa
+svchost.exe: richa
+conhost.exe: richa
+svchost.exe: richa
+OVRRedir.exe: SYSTEM
+taskhostw.exe: richa
+svchost.exe: SYSTEM
+svchost.exe: LOCAL SERVICE
+NisSrv.exe: LOCAL SERVICE
+explorer.exe: richa
+ShellHost.exe: richa
+CrossDeviceResume.exe: richa
+GameInputSvc.exe: SYSTEM
+GameInputSvc.exe: SYSTEM
+BraveCrashHandler.exe: SYSTEM
+BraveCrashHandler64.exe: SYSTEM
+svchost.exe: richa
+SearchHost.exe: richa
+StartMenuExperienceHost.exe: richa
+svchost.exe: richa
+RuntimeBroker.exe: richa
+msedgewebview2.exe: richa
+svchost.exe: LOCAL SERVICE
+msedgewebview2.exe: richa
+msedgewebview2.exe: richa
+msedgewebview2.exe: richa
+msedgewebview2.exe: richa
+ApplicationFrameHost.exe: richa
+svchost.exe: richa
+RemoteDesktopCompanion.exe: richa
+MQRDCrashpadHandler.exe: richa
+ctfmon.exe: richa
+SecurityHealthSystray.exe: richa
+SecurityHealthService.exe: SYSTEM
+vgtray.exe: richa
+msedgewebview2.exe: richa
+svchost.exe: LOCAL SERVICE
+TabTip.exe: richa
+RtkAudUService64.exe: richa
+RobloxPlayerBeta.exe: richa
+TextInputHost.exe: richa
+RobloxCrashHandler.exe: richa
+Discord.exe: richa
+Discord.exe: richa
+Discord.exe: richa
+Discord.exe: richa
+Discord.exe: richa
+RuntimeBroker.exe: richa
+NGenuity2Helper.exe: richa
+Discord.exe: richa
+SearchIndexer.exe: SYSTEM
+jusched.exe: richa
+RadeonSoftware.exe: richa
+CPUMetricsServer.exe: richa
+svchost.exe: SYSTEM
+cncmd.exe: richa
+cmd.exe: richa
+conhost.exe: richa
+AMDRSServ.exe: richa
+AMDRSSrcExt.exe: richa
+conhost.exe: richa
+amdow.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+svchost.exe: SYSTEM
+RzChromaStreamServer.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+svchost.exe: LOCAL SERVICE
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+svchost.exe: SYSTEM
+svchost.exe: SYSTEM
+ShellExperienceHost.exe: richa
+RuntimeBroker.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+SnippingTool.exe: richa
+brave.exe: richa
+brave.exe: richa
+svchost.exe: LOCAL SERVICE
+FileCoAuth.exe: richa
+svchost.exe: SYSTEM
+dllhost.exe: richa
+dllhost.exe: richa
+dllhost.exe: richa
+dllhost.exe: richa
+AMDInstallManager.exe: richa
+brave.exe: richa
+brave.exe: richa
+brave.exe: richa
+powershell.exe: richa
+conhost.exe: richa
+RuntimeBroker.exe: richa
+brave.exe: richa
+svchost.exe: SYSTEM
+SearchProtocolHost.exe: SYSTEM
+SearchFilterHost.exe: SYSTEM
+smartscreen.exe: richa
+audiodg.exe: LOCAL SERVICE
+svchost.exe: SYSTEM
+brave.exe: richa
+WmiPrvSE.exe: NETWORK SERVICE
+brave.exe: richa
+Notepad.exe: richa
+Notepad.exe: richa
+Notepad.exe: richa
+Notepad.exe: richa
+dllhost.exe: 
