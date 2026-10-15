@@ -1,0 +1,12 @@
+﻿
+Name                                      Status StartType
+----                                      ------ ---------
+brave                                    Stopped Automatic
+edgeupdate                               Stopped Automatic
+GoogleUpdaterInternalService157.0.8089.0 Stopped Automatic
+GoogleUpdaterService157.0.8089.0         Stopped Automatic
+gpsvc                                    Stopped Automatic
+MapsBroker                               Stopped Automatic
+sppsvc                                   Stopped Automatic
+
+
